@@ -9,9 +9,11 @@ public class Variables_01 {
         int a = 10;
         int b = 20;
         short c = 5;
+        char e = 72;
+        String f = "Matin Sedighi";
 
 
-        System.out.println(a+b+c);
+        System.out.println(f);
 
 
 
