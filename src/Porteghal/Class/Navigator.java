@@ -14,7 +14,7 @@ public class Navigator {
      */
     public static void main(String args[]) {
         System.out.println("Navigator");
-        TryCatchBlock variables = new TryCatchBlock();
+        AssignmentOperators variables = new AssignmentOperators();
         variables.Start();
     }
 }
