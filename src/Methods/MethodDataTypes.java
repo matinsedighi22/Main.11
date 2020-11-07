@@ -1,4 +1,4 @@
-package JavaTutorialMain;
+package Methods;
 
 public class MethodDataTypes {
 
@@ -26,6 +26,7 @@ public class MethodDataTypes {
     }
 
     public String Hi() {
+
         return "Hello";
     }
 }

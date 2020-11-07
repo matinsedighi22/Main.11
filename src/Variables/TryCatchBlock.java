@@ -1,4 +1,4 @@
-package JavaTutorialMain;
+package Variables;
 
 public class TryCatchBlock {
 
