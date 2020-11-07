@@ -1,6 +1,7 @@
 package Porteghal.Class;
 
-import JavaTutorialMain.*;
+import JavaTutorialMain.MethodDataTypes;
+import Methods.Methods;
 
 /**
  *  this class navigate us to the target classes
@@ -14,7 +15,7 @@ public class Navigator {
      */
     public static void main(String args[]) {
         System.out.println("Navigator");
-        AssignmentOperators variables = new AssignmentOperators();
+        MethodDataTypes variables = new MethodDataTypes();
         variables.Start();
     }
 }

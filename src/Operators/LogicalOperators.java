@@ -1,4 +1,4 @@
-package JavaTutorialMain;
+package Operators;
 
 import java.sql.SQLOutput;
 

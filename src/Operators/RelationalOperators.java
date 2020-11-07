@@ -1,4 +1,4 @@
-package JavaTutorialMain;
+package Operators;
 
 public class RelationalOperators {
 
